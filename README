@@ -1,0 +1,22 @@
+Final Project
+
+Dylan Cole (Undergraduate)
+CSCI4229/5229 Summer 2015
+
+Borrowed code from ex13, ex15, and ex21
+
+Recreation of the Temple of Time from Legend of Zelda
+All of the objects were drawn by me.  All of the gems are transparent and do not draw over each other.  The edge of the Emerald is rather complicated but makes a cool design;
+Also would like for you to see how the flickering effect makes the scene look by pressing o/p to change the time increment between the flickers.
+
+ Key bindings
+  m          Toggles idle movement
+  []         Lower/rise light
+  </>        Changes idle when movement toggled
+  x          Toggle light flicker
+  arrows     Change view angle
+  o/p        Change the time between light flicker
+  w/s        move forward/back
+  a/d        move left/right
+  0          Reset view angle
+  ESC        Exit
